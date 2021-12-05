@@ -12,7 +12,6 @@
 - JUnit 5.8.2
 - Rest Assured 4.4.0
 - Allure  2.13.1
-- Доп. плагины по типу jweaver для Allure  
 
 Среда разработки: IntelliJ IDEA Community Version 
 
