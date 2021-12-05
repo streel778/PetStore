@@ -7,12 +7,12 @@
 - DELETE запрос об удалении заказа по его ID
 
 Для реализации данной задачи выбран следующий стек технологий:
-1) Java
-2) Maven 4.0.0
-3) JUnit 5.8.2
-4) Rest Assured 4.4.0
-5) Allure  2.13.1
-6) Доп. плагины по типу jweaver для Allure  
+- Java
+- Maven 4.0.0
+- JUnit 5.8.2
+- Rest Assured 4.4.0
+- Allure  2.13.1
+- Доп. плагины по типу jweaver для Allure  
 
 Среда разработки: IntelliJ IDEA Community Version 
 
